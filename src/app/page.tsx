@@ -182,7 +182,7 @@ export default function Home() {
           ) : (
             <div className="bg-green-100 border border-green-400 text-green-700 px-4 py-3 rounded" role="alert">
               <h2 className="font-bold">Message Sent!</h2>
-              <p>Thanks for completing the form. We'll be in touch soon!</p>
+              <p>Thanks for completing the form. We&apos;ll be in touch soon!</p>
             </div>
           )}
 
